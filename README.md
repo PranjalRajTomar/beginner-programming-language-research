@@ -1,2 +1,20 @@
-# beginner-programming-language-research
-A research-based literature review exploring how programming language design, cognitive load, pedagogy, and learner experience influence beginner programming education. This report analyzes academic studies on Python, C++, block-based programming, frame-based editing, and helps novice programmers learn effectively.
+# Review of Research on Beginner Friendly Programming Languages
+
+## Author
+Pranjal Raj Tomar
+
+## Overview
+This report reviews academic research on beginner friendly programming languages, cognitive load in programming education, and educational language design.
+
+## Topics Covered
+- Python vs C++
+- Cognitive load
+- Block-based programming
+- Educational programming language design
+- Multiple-language teaching approaches
+
+## Key Conclusion
+Research does not support one universal best first programming language. Effective beginner learning depends more on pedagogy, reduced syntax friction, and learner context.
+
+## References
+Included in the full report PDF.
